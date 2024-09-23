@@ -1,2 +1,2 @@
-# #JS Portfolio
+# ThreeJS Portfolio
 
