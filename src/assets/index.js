@@ -9,7 +9,7 @@ import close from "./close.svg";
 
 import cpp from "./tech/cpp.png";
 import Flask from "./tech/flask.png";
-import Java from "./tech/java.png";
+import Java from "./tech/Java.png";
 import mysql from "./tech/mysql.png";
 import PostgreSQL from "./tech/PostgreSQL.png";
 import python from "./tech/python.png";
